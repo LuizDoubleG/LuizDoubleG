@@ -30,7 +30,7 @@
   
   <div> 
   <a href="https://www.instagram.com/luiz_doubleg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/427640703510904833" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/427640703510904833" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:20201100016@pq.uenf.br"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-miguel-guedes-gomes-47504522a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.artstation.com/lmdoubleg" target="_blank"><img src="https://img.shields.io/badge/-ArtStation-%23333?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
