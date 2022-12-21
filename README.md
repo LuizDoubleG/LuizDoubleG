@@ -23,7 +23,7 @@
   <img align="center" alt="Luiz-Latex" height="30" width="40" src="https://i.stack.imgur.com/AarYf.png">
   <img align="center" alt="Luiz-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="Luiz-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="right" alt="Luiz-Pic" height="250" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/871494120659632128/1055170762249621545/redSunrise2.png">
+  <img align="right" alt="Luiz-Pic" height="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/871494120659632128/1055170762249621545/redSunrise2.png">
 </div>
  
   ##
@@ -34,6 +34,9 @@
   <a href = "mailto:20201100016@pq.uenf.br"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-miguel-guedes-gomes-47504522a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.artstation.com/lmdoubleg" target="_blank"><img src="https://img.shields.io/badge/-ArtStation-%23333?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
-</div>
+
+    ![Snake animation](https://github.com/LuizDoubleG/LuizDoubleG/blob/output/github-contribution-grid-snake.svg)
+  
+  </div>
 
  
