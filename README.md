@@ -29,12 +29,11 @@
   ##
   
   <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=https://https://www.instagram.com/eduamaro.m/" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo.amaro164@gmail.com" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduardo-amaro-maciel-25b808187/" target="_blank"></a> 
-  <a href="https://www.artstation.com/lmdoubleg" target="_blank"><img src="https://img.shields.io/badge/-ArtStation-2A79C6?style=flat-square&logo=ArtStation&logoColor=white&link=mailto:eduardo.amaro164@gmail.com" target="_blank"></a>
- 
+  <a href="https://www.instagram.com/luiz_doubleg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/427640703510904833" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:20201100016@pq.uenf.br"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-miguel-guedes-gomes-47504522a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.artstation.com/lmdoubleg" target="_blank"><img src="https://img.shields.io/badge/-ArtStation-%23333?style=for-the-badge&logo=ArtStation&logoColor=white" target="_blank"></a>
 </div>
 
  
