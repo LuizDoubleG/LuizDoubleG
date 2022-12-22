@@ -1,4 +1,4 @@
-### Eai 🤙, me chamo Luiz Miguel e sou estudante de Ciência da Computação na UENF
+### Eai 🤙, me chamo Luiz Miguel e sou estudante de Ciência da Computação na UENF 
 
 
 - 🔭 I’m currently working on an android application for a company
@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with android studio
 - 💬 Ask me about learn new things and life resolutions
 - ⚡ Fun fact: I like digital painting 
+- 🏁 Nationality: Brazilian
 
 <div align="center">
   <a href="https://github.com/LuizDoubleG">
